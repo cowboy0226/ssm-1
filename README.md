@@ -1,5 +1,5 @@
 ## Spring、SpringMvc、Mybatis整合
-SSM是一位合格的JAVAEE工程必须掌握的内容，该项目非常适合入门。如果此项目可以帮到你请帮忙`Star`
+SSM是一位合格的JAVAEE工程必须掌握的内容，该项目非常适合入门，如果此项目可以帮到你请帮忙`Star`。
 #### 阅读须知
 本项目是使用XML方式配置的方式实现整合。
 对Spring、springMvc、Mybatis框架有一定了解的同学学习。
